@@ -1,0 +1,5 @@
+1 : 有利的beneficial
+2 : 狀態status
+3 : 複習review
+4 : 道歉apology
+5 : 喜悅的pleased
